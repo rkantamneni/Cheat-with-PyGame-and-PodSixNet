@@ -1,0 +1,4 @@
+#!/bin/bash
+pip3 install pygame
+pip3 install PodSixNet
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /Users/revantkantamneni/Desktop/cheat
+python3 server.py
